@@ -1,172 +1,161 @@
 <div align="center" id="top">
-  <h1>Juan G 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+🚀;Full+Stack+Developer;React+%26+Next.js+Enthusiast;Always+learning+new+things+💡" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/Juan-Gpu?tab=repositories">
-    <img alt="total stars" src="https://img.shields.io/github/stars/Juan-Gpu?style=for-the-badge&color=58a6ff&labelColor=1a1f2e&logo=github"/>
-  </a>
-  <a href="https://github.com/Juan-Gpu">
-    <img alt="followers" src="https://img.shields.io/github/followers/Juan-Gpu?color=58a6ff&labelColor=1a1f2e&style=for-the-badge&logo=github&label=Follow"/>
-  </a>
+# Juan G 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer+🚀;Full+Stack+Developer;React+%26+Next.js+Enthusiast;Building+with+AI+and+Automation;Always+Learning+💡" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://github.com/Juan-Gpu?tab=repositories">
+<img src="https://img.shields.io/github/stars/Juan-Gpu?style=for-the-badge&color=58a6ff&labelColor=1a1f2e&logo=github"/>
+</a>
+
+<a href="https://github.com/Juan-Gpu">
+<img src="https://img.shields.io/github/followers/Juan-Gpu?style=for-the-badge&color=58a6ff&labelColor=1a1f2e&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Juan-Gpu&style=for-the-badge&color=58A6FF"/>
+
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif" />
+<img align="right" height="160" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif"/>
 
-¡Hola! Soy **Juan G**, desarrollador **Full Stack** apasionado por construir productos web modernos y escalables. 🌐
+Hola 👋
 
-- ⚛️ Actualmente enfocado en **React** y **Next.js** para el frontend
-- 🔧 Experiencia sólida en **PHP** y desarrollo backend
-- 🗄️ Manejo de bases de datos **relacionales y NoSQL**
-- 🐳 Familiarizado con **Docker**, **AWS** y entornos **Linux**
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías
-- ⚡ Me gusta escribir código limpio, escalable y bien estructurado
+Soy **Juan G**, desarrollador **Full Stack** apasionado por crear productos digitales modernos, escalables y con experiencias de usuario de alta calidad.
+
+Actualmente me encuentro explorando el desarrollo de aplicaciones impulsadas por **Inteligencia Artificial**, automatización de procesos y arquitecturas modernas para web.
+
+- 🚀 Full Stack Developer
+- ⚛️ React & Next.js
+- 🐘 Backend con PHP, Laravel y Node.js
+- 🐍 Python para IA y automatización
+- 🤖 MCP • FastAPI • Automatizaciones
+- 🗄️ SQL & NoSQL Databases
+- 🐳 Docker • Linux • AWS
+- 🌱 Siempre aprendiendo nuevas tecnologías
 - 🤝 Abierto a colaborar en proyectos interesantes
 
 ---
 
-## 💻 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <p>React</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <p>Next.js</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <p>Angular</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <p>JavaScript</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <p>TypeScript</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <p>Laravel</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <p>PHP</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <p>Node.js</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-      <p>NestJS</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <p>Spring Boot</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <p>MySQL</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <p>PostgreSQL</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <p>MongoDB</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <p>GraphQL</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <p>Docker</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <p>AWS</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <p>Linux</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <p>Git</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <p>GitHub</p>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <p>VS Code</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Gpu&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-Gpu&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Gpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juan-Gpu&theme=transparent" height="180em" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juan-Gpu&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juan-Gpu&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juan-Gpu&theme=transparent&utcOffset=-5" height="180em" alt="Time Graph"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan-Gpu&theme=transparent" height="180em" alt="Commitments"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,php,laravel,nodejs,nestjs,spring,python,fastapi,mysql,postgres,mongodb,graphql,docker,aws,linux,git,github,vscode&perline=11"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juan-Gpu&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Juan-Gpu&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Gpu&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Gpu&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🎵 Spotify — Recently Played
+# 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://open.spotify.com/user/xjuangutierrezx" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xjuangutierrezx&count=5" alt="Spotify recently played" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juan-Gpu&bg_color=0d1117&color=58A6FF&line=3FB950&point=FFFFFF&area=true&hide_border=true"/>
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+# 📋 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan-Gpu&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Juan-Gpu&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🎵 Spotify
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/xjuangutierrezx">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=xjuangutierrezx&count=5"/>
+
+</a>
+
+</div>
+
+---
+
+# 💭 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Connect with me
+
+<a href="https://github.com/Juan-Gpu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tucorreo@correo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+
+</div>
+
+<p align="right">
+<a href="#top">
+<img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-58A6FF?style=for-the-badge"/>
+</a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juan-Gpu&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
